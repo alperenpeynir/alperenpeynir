@@ -1,5 +1,5 @@
-### Hi there 👋
-## Merhaba! Benim adım Alperen,19 yaşındayım. Ondokuzmayıs Üniversitesi Bilgisayar Programcılığı 2.sınıf öğrencisiyim. Yaptığım yapacağım projeleri paylaşıyorum.
+### Merhaba Dünya!
+#### Merhaba! Benim adım Alperen,19 yaşındayım. Ondokuzmayıs Üniversitesi Bilgisayar Programcılığı 2.sınıf öğrencisiyim. Yaptığım yapacağım projeleri paylaşıyorum.
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alperenpeynir/)
 [![instagram](https://img.shields.io/badge/İnstagram-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.instagram.com/alperenpeynir)
