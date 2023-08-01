@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alperenpeynir/)
+[![instagram](https://img.shields.io/badge/İnstagram-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.instagram.com/alperenpeynir)
+
 
 <!--
 **alperenpeynir/alperenpeynir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
